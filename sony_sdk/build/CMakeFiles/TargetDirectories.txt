@@ -1,0 +1,7 @@
+/home/software-03/hao_nguyen/btvl/part_1.1/sony_sdk/CrSDK_v1.12.00_20240425a_Linux64PC/build/CMakeFiles/RemoteCli.dir
+/home/software-03/hao_nguyen/btvl/part_1.1/sony_sdk/CrSDK_v1.12.00_20240425a_Linux64PC/build/CMakeFiles/edit_cache.dir
+/home/software-03/hao_nguyen/btvl/part_1.1/sony_sdk/CrSDK_v1.12.00_20240425a_Linux64PC/build/CMakeFiles/rebuild_cache.dir
+/home/software-03/hao_nguyen/btvl/part_1.1/sony_sdk/CrSDK_v1.12.00_20240425a_Linux64PC/build/CMakeFiles/list_install_components.dir
+/home/software-03/hao_nguyen/btvl/part_1.1/sony_sdk/CrSDK_v1.12.00_20240425a_Linux64PC/build/CMakeFiles/install.dir
+/home/software-03/hao_nguyen/btvl/part_1.1/sony_sdk/CrSDK_v1.12.00_20240425a_Linux64PC/build/CMakeFiles/install/local.dir
+/home/software-03/hao_nguyen/btvl/part_1.1/sony_sdk/CrSDK_v1.12.00_20240425a_Linux64PC/build/CMakeFiles/install/strip.dir
